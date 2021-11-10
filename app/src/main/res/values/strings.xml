@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vivodi</string>
+    <string name="Console">Вывод в консоль</string>
+    <string name="Text">Вывод в текст</string>
+    <string name="Array_vivod">Вывод массива</string>
+    <string name="LPU">Логин и паролб пользователя</string>
+    <string name="LPA">Логин и пароль админа</string>
+    <string name="Product_Price">Товар и цена</string>
+    <string name="bookPRICEpagecount">Книга, цена и страницы</string>
+    <string name="ProductList">Список товаров</string>
+    <string name="IsBook">Это книга</string>
+    <string name="ProductAdd">Добавить продукт</string>
+    <string name="ProductListBTN">Продукт лист</string>
+</resources>
